@@ -2,7 +2,7 @@
 
 This repository contains the public research code for the projected feature-learning experiments behind:
 
-**Rank-One Spectral Normalization Accelerates Projected Feature Learning**
+**Rank-One Spectral Normalization Accelerates Projected Feature Learning** (ICML 2026 HiLD)
 
 The central question is:
 
