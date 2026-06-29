@@ -1,0 +1,5402 @@
+[
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 0.8,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.2,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 64,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 128,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 256,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 512,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 0,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 1,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "sgd",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "adamw",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.02
+  },
+  {
+    "optimizer": "rmsprop",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.02,
+    "lr_v": 0.01
+  },
+  {
+    "optimizer": "muon",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "polar",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "fro_norm",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "freon",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "rand_spectrum",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  },
+  {
+    "optimizer": "trunc_sgd",
+    "beta": 1.5,
+    "width": 1024,
+    "seed": 2,
+    "lr_w": 0.16,
+    "lr_v": 0.04
+  }
+]
